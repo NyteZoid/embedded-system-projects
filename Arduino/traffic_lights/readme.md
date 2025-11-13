@@ -18,6 +18,6 @@ LED3 → Pin 11
 ## Code
 Written in standard C++ with `#include <Arduino.h>` so GitHub detects the language properly.
 
-## Demo
+## Hardware Demo
 ![Hardware Demo](https://github.com/user-attachments/assets/6006c3fa-f308-4259-993e-c8a18c0e9b43)
 
